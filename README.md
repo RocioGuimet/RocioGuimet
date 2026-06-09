@@ -4,8 +4,7 @@
 
 ### 🛠️ Tecnologías y Herramientas que más uso
 
-🔧 Backend: Java (Spring Boot, Spring Security, Data JPA), Python (FastAPI), REST APIs, JWT
-
+* 🔧 Backend: Java (Spring Boot, Spring Security, Data JPA), Python (FastAPI), REST APIs, JWT
 * 🌐 IA & Herramientas de Asistencia: Generative AI (LLMs), GitHub Copilot, Claude
 * 💻 DevOps & Deploy: Linux, Docker, CI/CD (GitHub Actions), Git, GitHub, Render
 * 🗄️ Bases de Datos: MySQL, PostgreSQL, H2
